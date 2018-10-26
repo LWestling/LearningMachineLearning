@@ -11,7 +11,6 @@ KEYS_LIST = [KEYS["d"], KEYS["x"], KEYS["z"], KEYS["enter"]]
 MAX_WEIGHT = 2
 SLEEP_TIME = 0.02
 
-# my first python app dont judge
 # author: LW
 
 class NeuralNetwork():
